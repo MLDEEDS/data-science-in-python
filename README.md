@@ -6,12 +6,12 @@
   <summary><b>Machine Learning in Python (Fundamental)</b></summary>
 
 - Steps of ML Algorithms
-  - Data Collection
+  - Data Gathering
   - Data Preparation
-  - Input Data Analysis
+  - Data Exploration
   - Training
   - Testing and Evaluation
-    - Performance Metrics
+    - Evaluation Criteria
       - Error Rate
       - Precision
       - Recall
@@ -84,6 +84,14 @@
       - Weak Learners
       - Testing the Classifier
       - Project: Handwritten Digits Recognition
+    - XGBoost
+      - Algorithm Intro
+      - Get Started with XGBoost
+        - Boosted Trees
+        - Model IO
+      - Gradient Boosting
+      - Parameters
+      - Random Forests in XGBoost
 
 </details>
 
