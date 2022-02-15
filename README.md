@@ -108,6 +108,7 @@
       - Ridge Regression
         - Coefficients
       - Forward Stagewise Regression
+      - Project: Age Prediction
     - Tree-based Regression
       - Task Intro
       - Modeling Complex Data
@@ -120,9 +121,19 @@
         - Prepruning
         - Postpruning
       - Model Trees
-    - Project: Age Prediction
-    - Project: Weather Temperature Forecast
-    - Project: Price Prediction
+      - Project: Price Prediction
+    - Time Series Regression
+      - Task Intro
+      - Analyzing Time Series Data
+        - Serial Correlation
+      - General Assumptions
+      - Using Regression Models for Forecasting
+      - Autoregressions
+        - Models
+        - Forecast Errors
+      - Algorithms
+      - Project: Weather Temperature Forecast
+      - Project: GDP Growth Forecasting
 
 </details>
 
@@ -138,6 +149,19 @@
       - Post-processing and Performance Improvement
       - Bisecting k-means
       - Project: Clustering Geo-coordinates
+    - Fuzzy Clustering
+      - Algorithm Intro
+      - Fuzzy Logic
+        - Introduction
+        - Fuzzy Sets
+        - Fuzzy Operations
+        - Fuzzification and Defuzzification
+      - Analyzing Data Points
+        - Initialization
+      - Finding Out the Centroid
+      - Distance Measurement
+      - Project: Car Engine Performance Modeling
+  - Association Rule Mining
     - Apriori Algorithm
       - Algorithm Intro
         - Principles
@@ -158,8 +182,26 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python (Tools)</b></summary>
+  <summary><b>Feature Engineering and Data Pre-processing</b></summary>
 
+- Working on Data
+  - Dataset Balancing
+    - Imbalanced Data Challenges
+    - Choosing Proper Evaluation Metric
+    - Training Set Resampling
+      - Under-sampling
+      - Over-sampling
+      - Ration Seletction
+    - K-fold Cross-Validation
+  - Data Testing
+  - Outlier Detection
+    - What is Outlier Data
+    - Overview of Outlier Detection Methods
+      - Isolation Forest
+      - Local Outlier Factor
+      - One-Class SVM (SGD)
+      - Robust Covariance
+    - Novelty Detection
 - Principal Component Analysis (PCA)
   - Task Intro
   - Data Simplification
