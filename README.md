@@ -1,4 +1,4 @@
-# Data Science in Paython Course Syllabus
+# Data Science in Python Course Syllabus
 
 ![DataScience MLDeeds](contents/DataScienceMLDeeds.jpg "DataScience MLDeeds")
 
