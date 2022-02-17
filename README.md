@@ -185,6 +185,11 @@
   <summary><b>Feature Engineering and Data Pre-processing</b></summary>
 
 - Working on Data
+  - Data Preprocessing
+    - Aggregation
+    - Sampling
+    - Dimensionality Reduction
+    - Discretization and Binarization
   - Dataset Balancing
     - Imbalanced Data Challenges
     - Choosing Proper Evaluation Metric
